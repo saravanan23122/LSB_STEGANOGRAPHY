@@ -1,1 +1,1 @@
-# LSB_STEGANOGRAPHY
+This project is about encoding the secret information into a .bmp(bitmap) file .the encoding part consists of taking each bit from the secret.txt file and placing in the lsb bit of the each byte of the .bmp image file
